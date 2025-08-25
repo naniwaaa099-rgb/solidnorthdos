@@ -1,0 +1,3040 @@
+[
+  {
+    "id": 1,
+    "stem": "At about what age does social smile in response to faces typically develop?",
+    "choices": [
+      "2 months",
+      "8 months",
+      "9 months",
+      "4 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 2,
+    "stem": "At about what age does cooing typically develop?",
+    "choices": [
+      "5 months",
+      "2 months",
+      "4 months",
+      "9 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 3,
+    "stem": "At about what age does laughing out loud typically develop?",
+    "choices": [
+      "9 months",
+      "1 month",
+      "4 months",
+      "2 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 4,
+    "stem": "At about what age does rolling front-to-back typically develop?",
+    "choices": [
+      "6 months",
+      "7 months",
+      "2 months",
+      "4 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 5,
+    "stem": "At about what age does rolling back-to-front typically develop?",
+    "choices": [
+      "5 months",
+      "2 months",
+      "3 months",
+      "7 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 6,
+    "stem": "At about what age does reaching for objects typically develop?",
+    "choices": [
+      "5 months",
+      "4 months",
+      "7 months",
+      "6 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 7,
+    "stem": "At about what age does hands unfisted most of the time typically develop?",
+    "choices": [
+      "7 months",
+      "5 months",
+      "3 months",
+      "2 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 8,
+    "stem": "At about what age does transferring objects hand-to-hand typically develop?",
+    "choices": [
+      "10 months",
+      "4 months",
+      "9 months",
+      "6 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 9,
+    "stem": "At about what age does raking grasp typically develop?",
+    "choices": [
+      "7 months",
+      "9 months",
+      "6 months",
+      "10 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 10,
+    "stem": "At about what age does inferior pincer grasp typically develop?",
+    "choices": [
+      "8 months",
+      "9 months",
+      "12 months",
+      "4 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 11,
+    "stem": "At about what age does neat pincer grasp typically develop?",
+    "choices": [
+      "9 months",
+      "10 months",
+      "12 months",
+      "6 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 12,
+    "stem": "At about what age does banging two cubes together typically develop?",
+    "choices": [
+      "11 months",
+      "9 months",
+      "12 months",
+      "8 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 13,
+    "stem": "At about what age does sits with support typically develop?",
+    "choices": [
+      "5 months",
+      "4 months",
+      "6 months",
+      "1 month"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 14,
+    "stem": "At about what age does sits without support typically develop?",
+    "choices": [
+      "10 months",
+      "6 months",
+      "9 months",
+      "3 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 15,
+    "stem": "At about what age does pulls to stand typically develop?",
+    "choices": [
+      "15 months",
+      "7 months",
+      "10 months",
+      "11 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 16,
+    "stem": "At about what age does cruising along furniture typically develop?",
+    "choices": [
+      "5 months",
+      "6 months",
+      "7 months",
+      "11 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 17,
+    "stem": "At about what age does stands alone briefly typically develop?",
+    "choices": [
+      "11 months",
+      "8 months",
+      "6 months",
+      "7 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 18,
+    "stem": "At about what age does walks independently typically develop?",
+    "choices": [
+      "8 months",
+      "12 months",
+      "9 months",
+      "7 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 19,
+    "stem": "At about what age does runs typically develop?",
+    "choices": [
+      "15 months",
+      "9 months",
+      "18 months",
+      "10 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 20,
+    "stem": "At about what age does jumps with both feet typically develop?",
+    "choices": [
+      "12 months",
+      "18 months",
+      "21 months",
+      "2 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 21,
+    "stem": "At about what age does throws ball overhead typically develop?",
+    "choices": [
+      "2 years",
+      "3 years",
+      "2 years 6 months",
+      "15 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 22,
+    "stem": "At about what age does kicks ball typically develop?",
+    "choices": [
+      "2 years 9 months",
+      "2 years",
+      "3 years",
+      "12 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 23,
+    "stem": "At about what age does hops on one foot typically develop?",
+    "choices": [
+      "5 years",
+      "3 years",
+      "4 years",
+      "2 years 3 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 24,
+    "stem": "At about what age does skips typically develop?",
+    "choices": [
+      "2 years 9 months",
+      "4 years",
+      "3 years 6 months",
+      "5 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 25,
+    "stem": "At about what age does balances on one foot ~2 seconds typically develop?",
+    "choices": [
+      "4 years",
+      "2 years 9 months",
+      "3 years",
+      "2 years 6 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 26,
+    "stem": "At about what age does balances on one foot ~5 seconds typically develop?",
+    "choices": [
+      "4 years",
+      "5 years",
+      "3 years",
+      "3 years 6 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 27,
+    "stem": "At about what age does scribbles spontaneously typically develop?",
+    "choices": [
+      "8 months",
+      "7 months",
+      "15 months",
+      "10 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 28,
+    "stem": "At about what age does imitates a vertical stroke typically develop?",
+    "choices": [
+      "2 years",
+      "15 months",
+      "21 months",
+      "18 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 29,
+    "stem": "At about what age does copies a circle typically develop?",
+    "choices": [
+      "3 years",
+      "2 years 9 months",
+      "3 years 6 months",
+      "18 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 30,
+    "stem": "At about what age does copies a cross typically develop?",
+    "choices": [
+      "2 years 6 months",
+      "3 years 6 months",
+      "2 years 3 months",
+      "2 years"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 31,
+    "stem": "At about what age does copies a square typically develop?",
+    "choices": [
+      "5 years",
+      "2 years",
+      "4 years",
+      "2 years 6 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 32,
+    "stem": "At about what age does copies a triangle typically develop?",
+    "choices": [
+      "3 years",
+      "4 years",
+      "2 years 3 months",
+      "5 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 33,
+    "stem": "At about what age does places a block in a cup typically develop?",
+    "choices": [
+      "12 months",
+      "10 months",
+      "11 months",
+      "18 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 34,
+    "stem": "At about what age does builds a 2‑cube tower typically develop?",
+    "choices": [
+      "9 months",
+      "12 months",
+      "8 months",
+      "11 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 35,
+    "stem": "At about what age does builds a 4‑cube tower typically develop?",
+    "choices": [
+      "11 months",
+      "2 years",
+      "18 months",
+      "21 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 36,
+    "stem": "At about what age does builds a 6‑cube tower typically develop?",
+    "choices": [
+      "21 months",
+      "2 years 3 months",
+      "12 months",
+      "2 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 37,
+    "stem": "At about what age does builds an 8‑cube tower typically develop?",
+    "choices": [
+      "2 years 6 months",
+      "2 years",
+      "21 months",
+      "3 years"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 38,
+    "stem": "At about what age does builds a 10‑cube tower typically develop?",
+    "choices": [
+      "18 months",
+      "3 years",
+      "3 years 6 months",
+      "21 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 39,
+    "stem": "At about what age does points to request (proto‑imperative) typically develop?",
+    "choices": [
+      "7 months",
+      "9 months",
+      "15 months",
+      "11 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 40,
+    "stem": "At about what age does points to show interest (proto‑declarative) typically develop?",
+    "choices": [
+      "10 months",
+      "9 months",
+      "11 months",
+      "18 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 41,
+    "stem": "At about what age does responds to name consistently typically develop?",
+    "choices": [
+      "9 months",
+      "5 months",
+      "7 months",
+      "6 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 42,
+    "stem": "At about what age does says 'mama/dada' specific typically develop?",
+    "choices": [
+      "15 months",
+      "10 months",
+      "6 months",
+      "8 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 43,
+    "stem": "At about what age does speaks 1–3 meaningful words typically develop?",
+    "choices": [
+      "15 months",
+      "9 months",
+      "12 months",
+      "11 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 44,
+    "stem": "At about what age does vocabulary ~10–15 words typically develop?",
+    "choices": [
+      "9 months",
+      "12 months",
+      "15 months",
+      "18 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 45,
+    "stem": "At about what age does two‑word phrases typically develop?",
+    "choices": [
+      "2 years",
+      "3 years",
+      "2 years 6 months",
+      "15 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 46,
+    "stem": "At about what age does follows one‑step command with gesture typically develop?",
+    "choices": [
+      "7 months",
+      "12 months",
+      "6 months",
+      "9 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 47,
+    "stem": "At about what age does follows two‑step commands typically develop?",
+    "choices": [
+      "2 years 3 months",
+      "21 months",
+      "2 years",
+      "18 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 48,
+    "stem": "At about what age does speech intelligibility ≈50% typically develop?",
+    "choices": [
+      "2 years 3 months",
+      "3 years",
+      "2 years 9 months",
+      "2 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 49,
+    "stem": "At about what age does speech intelligibility ≈75% typically develop?",
+    "choices": [
+      "3 years",
+      "4 years",
+      "2 years",
+      "18 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 50,
+    "stem": "At about what age does speech intelligibility ≈100% typically develop?",
+    "choices": [
+      "4 years 6 months",
+      "4 years",
+      "3 years",
+      "3 years 6 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 51,
+    "stem": "At about what age does names at least 4 colors typically develop?",
+    "choices": [
+      "2 years",
+      "2 years 3 months",
+      "4 years",
+      "2 years 6 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 52,
+    "stem": "At about what age does tells simple stories typically develop?",
+    "choices": [
+      "4 years 6 months",
+      "2 years 6 months",
+      "2 years 9 months",
+      "4 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 53,
+    "stem": "At about what age does knows first and last name typically develop?",
+    "choices": [
+      "5 years",
+      "4 years",
+      "4 years 6 months",
+      "3 years 6 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 54,
+    "stem": "At about what age does pretend/imaginary play emerges typically develop?",
+    "choices": [
+      "12 months",
+      "18 months",
+      "15 months",
+      "9 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 55,
+    "stem": "At about what age does parallel play predominates typically develop?",
+    "choices": [
+      "18 months",
+      "21 months",
+      "2 years 6 months",
+      "15 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 56,
+    "stem": "At about what age does cooperative play typically develop?",
+    "choices": [
+      "2 years 9 months",
+      "2 years",
+      "2 years 3 months",
+      "4 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 57,
+    "stem": "At about what age does stranger anxiety typically appears typically develop?",
+    "choices": [
+      "7 months",
+      "4 months",
+      "6 months",
+      "3 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 58,
+    "stem": "At about what age does separation anxiety peaks typically develop?",
+    "choices": [
+      "11 months",
+      "12 months",
+      "18 months",
+      "9 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 59,
+    "stem": "At about what age does object permanence emerges typically develop?",
+    "choices": [
+      "12 months",
+      "8 months",
+      "9 months",
+      "6 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 60,
+    "stem": "At about what age does uses spoon with minimal spilling typically develop?",
+    "choices": [
+      "3 years",
+      "12 months",
+      "2 years 3 months",
+      "2 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 61,
+    "stem": "At about what age does removes some clothing typically develop?",
+    "choices": [
+      "18 months",
+      "21 months",
+      "15 months",
+      "2 years"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 62,
+    "stem": "At about what age does puts on some clothing independently typically develop?",
+    "choices": [
+      "2 years 3 months",
+      "3 years",
+      "3 years 6 months",
+      "4 years"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 63,
+    "stem": "At about what age does daytime toilet training achieved typically develop?",
+    "choices": [
+      "18 months",
+      "2 years",
+      "3 years",
+      "2 years 3 months"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 64,
+    "stem": "At about what age does nighttime continence commonly by typically develop?",
+    "choices": [
+      "4 years 6 months",
+      "2 years",
+      "3 years 6 months",
+      "5 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 65,
+    "stem": "At about what age does climbs stairs alternating feet typically develop?",
+    "choices": [
+      "4 years",
+      "2 years 3 months",
+      "2 years 9 months",
+      "2 years 6 months"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 66,
+    "stem": "At about what age does copies an X typically develop?",
+    "choices": [
+      "4 years 6 months",
+      "4 years",
+      "5 years",
+      "2 years 9 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 67,
+    "stem": "At about what age does draws a person with ≥6 parts typically develop?",
+    "choices": [
+      "2 years 9 months",
+      "2 years 3 months",
+      "4 years 6 months",
+      "2 years"
+    ],
+    "answer": 2,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 68,
+    "stem": "At about what age does counts to three typically develop?",
+    "choices": [
+      "2 years 3 months",
+      "3 years 6 months",
+      "21 months",
+      "3 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 69,
+    "stem": "At about what age does understands basic time words (yesterday/tomorrow) typically develop?",
+    "choices": [
+      "4 years 6 months",
+      "2 years 3 months",
+      "2 years",
+      "3 years"
+    ],
+    "answer": 0,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 70,
+    "stem": "At about what age does fears strangers decrease markedly typically develop?",
+    "choices": [
+      "11 months",
+      "12 months",
+      "6 months",
+      "7 months"
+    ],
+    "answer": 1,
+    "tags": [
+      "milestones"
+    ]
+  },
+  {
+    "id": 71,
+    "stem": "Piaget stage characterized by symbolic thinking with egocentrism (≈2–7 years)?",
+    "choices": [
+      "Preoperational stage",
+      "Sensorimotor stage",
+      "Concrete operational stage",
+      "Formal operational stage"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 72,
+    "stem": "Piaget stage when children begin logical operations on concrete objects (≈7–11 years)?",
+    "choices": [
+      "Formal operations",
+      "Concrete operations",
+      "Sensorimotor",
+      "Preoperational"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 73,
+    "stem": "Piaget stage supporting hypothetical/abstract reasoning (≈12+ years)?",
+    "choices": [
+      "Concrete operations",
+      "Preoperational",
+      "Formal operations",
+      "Sensorimotor"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 74,
+    "stem": "Erikson task for toddlers (1–3 years) is:",
+    "choices": [
+      "Initiative vs guilt",
+      "Industry vs inferiority",
+      "Trust vs mistrust",
+      "Autonomy vs shame/doubt"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 75,
+    "stem": "Erikson task for preschoolers is:",
+    "choices": [
+      "Initiative vs guilt",
+      "Identity vs role confusion",
+      "Autonomy vs shame",
+      "Intimacy vs isolation"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 76,
+    "stem": "Erikson task for school‑age children is:",
+    "choices": [
+      "Trust vs mistrust",
+      "Industry vs inferiority",
+      "Generativity vs stagnation",
+      "Autonomy vs shame"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 77,
+    "stem": "Kohlberg level focused on avoiding punishment and seeking reward is:",
+    "choices": [
+      "Conventional",
+      "Postconventional",
+      "Preconventional",
+      "None of the above"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 78,
+    "stem": "Kohlberg 'law‑and‑order' orientation belongs to:",
+    "choices": [
+      "Preconventional",
+      "Postconventional",
+      "Sensorimotor",
+      "Conventional level"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 79,
+    "stem": "A secure attachment in infancy is associated with:",
+    "choices": [
+      "Better social competence and emotion regulation",
+      "Worse peer relations",
+      "No effect",
+      "Guaranteed high IQ"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 80,
+    "stem": "Authoritative parenting is best summarized as:",
+    "choices": [
+      "Low warmth, high control (authoritarian)",
+      "High warmth, high control (clear expectations)",
+      "High warmth, low control (permissive)",
+      "Low warmth, low control (neglectful)"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 81,
+    "stem": "Temperament described as 'easy' typically includes:",
+    "choices": [
+      "Irregular sleep, intense reactions",
+      "Slow to warm with persistent withdrawal",
+      "Regular routines, adaptability, positive mood",
+      "No routine"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 82,
+    "stem": "HEADSSS includes all EXCEPT:",
+    "choices": [
+      "Home",
+      "Education/Employment & Eating",
+      "Drugs, Sexuality, Safety, Suicide",
+      "Echocardiography"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 83,
+    "stem": "Best initial response to a teen disclosing suicidal thoughts:",
+    "choices": [
+      "Assess risk and safety; ensure immediate support/referral",
+      "Promise secrecy",
+      "Dismiss it",
+      "Delay a month"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 84,
+    "stem": "Primary driver of increased risk‑taking in adolescence includes:",
+    "choices": [
+      "Fully mature executive function",
+      "Enhanced limbic reward sensitivity with a still‑maturing prefrontal cortex",
+      "Minimal peer influence",
+      "Hypervigilant risk aversion"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 85,
+    "stem": "A key element of trauma‑informed care is:",
+    "choices": [
+      "Focusing on symptoms only",
+      "Confrontation",
+      "Realizing the prevalence of trauma and avoiding re‑traumatization",
+      "Public disclosure"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 86,
+    "stem": "Oppositional defiant disorder core features include:",
+    "choices": [
+      "Hallucinations",
+      "Mania",
+      "Catatonia",
+      "Angry/irritable mood, argumentative/defiant behavior, vindictiveness"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 87,
+    "stem": "ADHD hallmark symptoms are:",
+    "choices": [
+      "Inattention and/or hyperactivity‑impulsivity across settings",
+      "Low IQ",
+      "Psychosis",
+      "Motor tics only"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 88,
+    "stem": "Autism spectrum disorder core deficits involve:",
+    "choices": [
+      "Only motor delay",
+      "Social communication and restricted/repetitive behaviors",
+      "Only language delay",
+      "Exclusive mood symptoms"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 89,
+    "stem": "Best practice for disruptive behaviors in young children is:",
+    "choices": [
+      "Yelling and shame",
+      "No structure",
+      "Positive reinforcement, consistent limits, parent training",
+      "Isolation punishment"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 90,
+    "stem": "Screening for depression in adolescents should be:",
+    "choices": [
+      "Never done",
+      "Only when parents ask",
+      "Done by police",
+      "Routine in primary care with pathways for positive screens"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 91,
+    "stem": "Key sign of anxiety in school‑age children includes:",
+    "choices": [
+      "Somatic complaints (headaches, stomachaches) with school avoidance",
+      "Euphoria only",
+      "Hypersexuality",
+      "Weight gain only"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 92,
+    "stem": "Bulimia nervosa red flags include:",
+    "choices": [
+      "Severe cachexia only",
+      "Binge eating, compensatory behaviors (vomiting/laxatives), normal BMI possible",
+      "No dental effects",
+      "Always underweight"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 93,
+    "stem": "Substance use screening tool appropriate for adolescents:",
+    "choices": [
+      "PHQ‑9",
+      "MMSE",
+      "CRAFFT",
+      "MDQ"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 94,
+    "stem": "Protective factor against risky behaviors includes:",
+    "choices": [
+      "Peer pressure to use drugs",
+      "Unsupervised free time only",
+      "Online anonymity",
+      "Strong family connectedness and school engagement"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 95,
+    "stem": "Best communication strategy with adolescents:",
+    "choices": [
+      "Private time, confidentiality explanation, nonjudgmental questions",
+      "Lecturing",
+      "Public shaming",
+      "Talking only to parents"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 96,
+    "stem": "Eating disorder medical risk needing urgent care:",
+    "choices": [
+      "Mild acne",
+      "Bradycardia, hypotension, electrolyte abnormalities",
+      "Seasonal allergies",
+      "Myopia"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 97,
+    "stem": "A feature distinguishing PTSD from acute stress reaction is:",
+    "choices": [
+      "Any nightmares",
+      "Any startle response",
+      "Duration >1 month with functional impairment",
+      "Any sadness"
+    ],
+    "answer": 2,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 98,
+    "stem": "Selective mutism typically presents as:",
+    "choices": [
+      "Global aphasia",
+      "Hearing loss only",
+      "Stuttering",
+      "Consistent failure to speak in specific social settings despite speaking in others"
+    ],
+    "answer": 3,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 99,
+    "stem": "A teen with perfectionism and excessive exercise is at risk for:",
+    "choices": [
+      "Eating disorder (e.g., anorexia nervosa)",
+      "Conduct disorder",
+      "Tourette syndrome",
+      "Panic disorder"
+    ],
+    "answer": 0,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 100,
+    "stem": "Best immediate response to suspected abuse disclosure:",
+    "choices": [
+      "Interrogate the child aggressively",
+      "Listen, validate, ensure safety, and follow mandatory reporting laws",
+      "Confront the alleged abuser alone",
+      "Promise secrecy"
+    ],
+    "answer": 1,
+    "tags": [
+      "psych"
+    ]
+  },
+  {
+    "id": 101,
+    "stem": "Which vaccines are LIVE attenuated?",
+    "choices": [
+      "MMR, Varicella, Rotavirus (oral), intranasal influenza",
+      "HepB, IPV, Tdap",
+      "PCV, Hib, HepA",
+      "Inactivated influenza, HPV"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 102,
+    "stem": "A core principle when two live injectable vaccines are NOT given the same day:",
+    "choices": [
+      "No separation needed",
+      "Separate them by at least 4 weeks",
+      "24‑hour separation",
+      "8‑week minimum always"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 103,
+    "stem": "Mild acute illness with low‑grade fever is:",
+    "choices": [
+      "A strict contraindication",
+      "Reason to restart series",
+      "NOT a contraindication to routine vaccination",
+      "Requires antibiotics first"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 104,
+    "stem": "History of anaphylaxis to a previous vaccine dose is:",
+    "choices": [
+      "A minor precaution only",
+      "Not relevant",
+      "Indication for double dose",
+      "A contraindication to further doses of that vaccine"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 105,
+    "stem": "Egg allergy of any severity and influenza vaccination:",
+    "choices": [
+      "Not a contraindication to receiving influenza vaccines",
+      "Absolute contraindication",
+      "Only intranasal is safe",
+      "Requires desensitization first"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 106,
+    "stem": "General rule for restarting vaccine series after long intervals:",
+    "choices": [
+      "Always restart",
+      "Do NOT restart; continue from where it left off",
+      "Skip remaining doses",
+      "Double the next dose"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 107,
+    "stem": "MMR minimum age for first dose is typically:",
+    "choices": [
+      "6 weeks",
+      "6 months for all",
+      "12 months",
+      "4 years"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 108,
+    "stem": "Varicella vaccine first dose is typically at:",
+    "choices": [
+      "6 months",
+      "Birth",
+      "4 years only",
+      "12–15 months"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 109,
+    "stem": "DTaP series is generally used for children:",
+    "choices": [
+      "<7 years of age",
+      "≥10 years only",
+      "Any age",
+      "Only in adults"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 110,
+    "stem": "Tdap is routinely recommended at:",
+    "choices": [
+      "2 months",
+      "11–12 years (with one dose in every pregnancy)",
+      "4 years",
+      "Age 30 only"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 111,
+    "stem": "Hepatitis B vaccine first dose is typically given:",
+    "choices": [
+      "At 6 months only",
+      "At 2 years first",
+      "At birth (within 24 hours, if possible)",
+      "Only if HBsAg‑positive mother"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 112,
+    "stem": "Rotavirus vaccination should be initiated by:",
+    "choices": [
+      "6 months",
+      "12 months",
+      "Any time in the first year",
+      "14 weeks 6 days of age (do not start at ≥15 weeks)"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 113,
+    "stem": "Rotavirus final dose should be completed by about:",
+    "choices": [
+      "8 months of age",
+      "12 months",
+      "18 months",
+      "4 years"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 114,
+    "stem": "Hib vaccination beyond age 5 is generally:",
+    "choices": [
+      "Required for all",
+      "Not indicated unless special risk (e.g., asplenia, transplant)",
+      "Never given to infants",
+      "Only if egg allergy"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 115,
+    "stem": "Pneumococcal conjugate vaccine (PCV) infant schedule typically includes doses at:",
+    "choices": [
+      "Birth only",
+      "9 and 12 months only",
+      "2, 4, 6, and 12–15 months",
+      "4–6 years only"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 116,
+    "stem": "Inactivated polio vaccine (IPV) routine series includes doses at:",
+    "choices": [
+      "Birth, 1, 2 months only",
+      "Only at adolescence",
+      "At 9 months only",
+      "2, 4, 6–18 months, and 4–6 years"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 117,
+    "stem": "Hepatitis A routine series is commonly:",
+    "choices": [
+      "2 doses separated by at least 6 months (start at 12–23 months)",
+      "3 doses at birth",
+      "One dose lifetime",
+      "Monthly until age 5"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 118,
+    "stem": "HPV vaccination is optimally started at:",
+    "choices": [
+      "2 months",
+      "11–12 years",
+      "5 years",
+      "21 years"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 119,
+    "stem": "HPV dosing for those starting before age 15 typically is:",
+    "choices": [
+      "3 doses always",
+      "1 dose only",
+      "2 doses (0 and 6–12 months)",
+      "Monthly until 3 doses"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 120,
+    "stem": "Meningococcal ACWY vaccination is routinely at:",
+    "choices": [
+      "2 months and 6 months",
+      "Age 5 and 7",
+      "Only in college",
+      "11–12 years with a booster at 16"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 121,
+    "stem": "Live vaccines in pregnancy are:",
+    "choices": [
+      "Contraindicated (e.g., MMR, varicella, LAIV)",
+      "Preferred",
+      "Required",
+      "Equivalent to inactivated"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 122,
+    "stem": "Immunocompromised patients generally should avoid:",
+    "choices": [
+      "All inactivated vaccines",
+      "Live vaccines",
+      "Any vaccine",
+      "Only influenza"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 123,
+    "stem": "Household contacts of immunocompromised persons should:",
+    "choices": [
+      "Avoid vaccines",
+      "Wait until the patient recovers",
+      "Receive all recommended vaccines (including live, with precautions)",
+      "Only get tetanus"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 124,
+    "stem": "Varicella exposure in non‑immune high‑risk individuals may warrant:",
+    "choices": [
+      "High‑dose steroids",
+      "Antibiotics",
+      "No action",
+      "Varicella‑zoster immune globulin (per guidelines)"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 125,
+    "stem": "Anaphylaxis after vaccination should be treated with:",
+    "choices": [
+      "IM epinephrine promptly and emergency management",
+      "Oral antihistamines only",
+      "Topical steroids",
+      "Wait and observe"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 126,
+    "stem": "Vaccine storage for most inactivated vaccines is:",
+    "choices": [
+      "Room temperature",
+      "Refrigerated at 2–8 °C; do not freeze",
+      "Always frozen",
+      "Heated then cooled"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 127,
+    "stem": "MMR and tuberculin skin testing (TST) timing:",
+    "choices": [
+      "Always separate by 1 day",
+      "Never coadminister",
+      "Give on the same day or delay TST for several weeks after MMR",
+      "No timing effect"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 128,
+    "stem": "Coadministration of different vaccines is generally:",
+    "choices": [
+      "Forbidden",
+      "Allowed only for inactivated",
+      "Only one vaccine per visit",
+      "Safe at the same visit at different sites"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 129,
+    "stem": "A true contraindication to pertussis‑containing vaccine includes:",
+    "choices": [
+      "Encephalopathy within 7 days of a previous dose",
+      "Mild fever",
+      "Family history of seizures",
+      "Remote prematurity"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 130,
+    "stem": "Precaution vs contraindication: moderate/severe acute illness is a:",
+    "choices": [
+      "Contraindication always",
+      "Precaution (defer until improved)",
+      "No relevance",
+      "Indication to double dose"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 131,
+    "stem": "Catch‑up schedules require attention to:",
+    "choices": [
+      "Restarting every series",
+      "Ignoring age",
+      "Minimum ages and minimum intervals between doses",
+      "Monthly boosters indefinitely"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 132,
+    "stem": "BCG is primarily used to prevent:",
+    "choices": [
+      "Influenza",
+      "Pertussis",
+      "Diptheria",
+      "Severe forms of TB in children (e.g., miliary, TB meningitis)"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 133,
+    "stem": "Which vaccine is given at birth in many schedules besides HepB?",
+    "choices": [
+      "BCG (context‑specific, where TB burden is high)",
+      "MMR",
+      "Varicella",
+      "HPV"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 134,
+    "stem": "Adverse event commonly after MMR includes:",
+    "choices": [
+      "Immediate bacterial infection",
+      "Fever and mild rash 1–2 weeks later",
+      "Anaphylaxis in all",
+      "Severe neuropathy universally"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 135,
+    "stem": "Which is a LIVE oral vaccine?",
+    "choices": [
+      "IPV",
+      "HepA",
+      "Rotavirus (oral)",
+      "PCV"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 136,
+    "stem": "Contraindication to influenza LAIV (intranasal) includes:",
+    "choices": [
+      "Age >2 years and healthy",
+      "Mild rhinitis",
+      "Remote egg allergy",
+      "Severe immunodeficiency or pregnancy"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 137,
+    "stem": "Tdap should be administered in pregnancy at:",
+    "choices": [
+      "27–36 weeks of each pregnancy",
+      "Only once in lifetime",
+      "First trimester only",
+      "Postpartum only"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 138,
+    "stem": "Post‑vaccine syncope prevention in adolescents includes:",
+    "choices": [
+      "Immediate sports",
+      "Having patients seated/observed for ~15 minutes",
+      "Fasting all day",
+      "No observation needed"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 139,
+    "stem": "Injection site for IM vaccines in infants is typically:",
+    "choices": [
+      "Deltoid always",
+      "Gluteal muscle",
+      "Anterolateral thigh (vastus lateralis)",
+      "Forearm"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 140,
+    "stem": "Multiple vaccines in one visit should be administered:",
+    "choices": [
+      "Mixed in one syringe",
+      "On the same exact spot",
+      "Days apart only",
+      "At different anatomical sites using separate syringes"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 141,
+    "stem": "After exposure to measles, non‑immune persons may benefit from:",
+    "choices": [
+      "MMR vaccine within 72 hours or immune globulin per risk",
+      "Antibiotics",
+      "Topical antivirals",
+      "No action"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 142,
+    "stem": "Which statement about vaccine myths is TRUE?",
+    "choices": [
+      "Spacing out vaccines improves safety",
+      "Vaccines do not cause autism; large studies show no link",
+      "Natural infection is safer",
+      "Thimerosal causes autism"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 143,
+    "stem": "For asplenic children, additional vaccines include:",
+    "choices": [
+      "None beyond routine",
+      "Only HPV",
+      "PPSV and meningococcal in addition to routine PCV/Hib",
+      "Only HepA"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 144,
+    "stem": "HepB post‑exposure for newborn of HBsAg‑positive mother:",
+    "choices": [
+      "HepB vaccine alone at 2 months",
+      "HBIG alone",
+      "Wait for testing at 6 months",
+      "HepB vaccine + HBIG within 12 hours of birth"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 145,
+    "stem": "Which vaccine is commonly associated with intussusception risk (rare)?",
+    "choices": [
+      "Rotavirus",
+      "MMR",
+      "HepB",
+      "PCV"
+    ],
+    "answer": 0,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 146,
+    "stem": "A mother is mildly ill (low‑grade fever). Infant due for vaccines today. Best action:",
+    "choices": [
+      "Defer all vaccines",
+      "Proceed with vaccination of the infant as scheduled",
+      "Give half‑doses",
+      "Start antibiotics"
+    ],
+    "answer": 1,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 147,
+    "stem": "Simultaneous administration of MMR and varicella as MMRV:",
+    "choices": [
+      "Always preferred",
+      "Contraindicated",
+      "May increase fever/febrile seizure risk in 12–23 months vs separate shots; discuss options",
+      "Eliminates all side effects"
+    ],
+    "answer": 2,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 148,
+    "stem": "Children with severe egg allergy should:",
+    "choices": [
+      "Avoid all vaccines",
+      "Use only LAIV",
+      "Be vaccinated only in ICU",
+      "Receive influenza vaccine in routine settings; egg allergy is not a barrier"
+    ],
+    "answer": 3,
+    "tags": [
+      "immunization"
+    ]
+  },
+  {
+    "id": 149,
+    "stem": "A 21‑kg child needs ibuprofen 10 mg/kg per dose. What single dose (mg)?",
+    "choices": [
+      "210",
+      "140",
+      "270",
+      "170"
+    ],
+    "answer": 0,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 150,
+    "stem": "A 17.5‑kg child gets acetaminophen 15 mg/kg/dose. One dose (mg)?",
+    "choices": [
+      "202",
+      "262",
+      "308",
+      "232"
+    ],
+    "answer": 1,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 151,
+    "stem": "Amoxicillin 80 mg/kg/day divided q12h for 22‑kg child. mg per dose?",
+    "choices": [
+      "1760",
+      "800",
+      "880",
+      "960"
+    ],
+    "answer": 2,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 152,
+    "stem": "Using the 4‑2‑1 rule, what is the hourly maintenance rate for a 23‑kg child?",
+    "choices": [
+      "59 mL/h",
+      "69 mL/h",
+      "73 mL/h",
+      "63 mL/h"
+    ],
+    "answer": 3,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 153,
+    "stem": "Give 20 mL/kg NS bolus to a 13.4‑kg child. What volume (mL)?",
+    "choices": [
+      "268 mL",
+      "148 mL",
+      "348 mL",
+      "228 mL"
+    ],
+    "answer": 0,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 154,
+    "stem": "Plan B ORS: 75 mL/kg over 4 h for an 11‑kg child. Total volume?",
+    "choices": [
+      "625 mL",
+      "825 mL",
+      "925 mL",
+      "725 mL"
+    ],
+    "answer": 1,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 155,
+    "stem": "Parkland formula (first 24 h): 4 mL/kg/%TBSA for 14‑kg child with 15% burns. Volume?",
+    "choices": [
+      "720 mL",
+      "1000 mL",
+      "840 mL",
+      "760 mL"
+    ],
+    "answer": 2,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 156,
+    "stem": "Pre‑illness weight 16.2 kg; now 14.9 kg. Approximate % weight loss?",
+    "choices": [
+      "6.0%",
+      "9.5%",
+      "7.0%",
+      "8.0%"
+    ],
+    "answer": 3,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 157,
+    "stem": "Compute BMI for 33 kg and 131 cm.",
+    "choices": [
+      "19.2 kg/m²",
+      "18.2 kg/m²",
+      "20.4 kg/m²",
+      "18.6 kg/m²"
+    ],
+    "answer": 0,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 158,
+    "stem": "Elemental iron 3 mg/kg/day for a 13‑kg toddler using 15 mg/5 mL syrup. Daily volume?",
+    "choices": [
+      "11.0 mL/day",
+      "13.0 mL/day",
+      "14.5 mL/day",
+      "12.0 mL/day"
+    ],
+    "answer": 1,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 159,
+    "stem": "Born at 32 weeks GA, now 22 weeks chronological. Corrected age is:",
+    "choices": [
+      "12 weeks",
+      "17 weeks",
+      "14 weeks",
+      "20 weeks"
+    ],
+    "answer": 2,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 160,
+    "stem": "Midparental height (boy) for father 176 cm and mother 162 cm is:",
+    "choices": [
+      "172.5 cm",
+      "177.5 cm",
+      "174.0 cm",
+      "175.5 cm"
+    ],
+    "answer": 3,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 161,
+    "stem": "Midparental height (girl) for father 183 cm and mother 160 cm is:",
+    "choices": [
+      "165.0 cm",
+      "163.0 cm",
+      "167.0 cm",
+      "164.0 cm"
+    ],
+    "answer": 0,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 162,
+    "stem": "Population mean height 108 cm (SD 4.5). A child is 99 cm. z‑score is:",
+    "choices": [
+      "-2.4",
+      "-2.0",
+      "-1.4",
+      "-2.2"
+    ],
+    "answer": 1,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 163,
+    "stem": "Mild dehydration: ORS 50 mL/kg over 4 h for a 9.6‑kg child. Total volume?",
+    "choices": [
+      "330 mL",
+      "580 mL",
+      "480 mL",
+      "400 mL"
+    ],
+    "answer": 2,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 164,
+    "stem": "Ceftriaxone 50 mg/kg IV once daily for 19‑kg child. Dose is:",
+    "choices": [
+      "700 mg",
+      "1150 mg",
+      "850 mg",
+      "950 mg"
+    ],
+    "answer": 3,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 165,
+    "stem": "Packed RBC transfusion at 10 mL/kg for a 16‑kg child. Volume is:",
+    "choices": [
+      "160 mL",
+      "120 mL",
+      "190 mL",
+      "150 mL"
+    ],
+    "answer": 0,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 166,
+    "stem": "Set an IV infusion of 600 mL over 3 hours. Pump rate is:",
+    "choices": [
+      "150 mL/h",
+      "200 mL/h",
+      "250 mL/h",
+      "225 mL/h"
+    ],
+    "answer": 1,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 167,
+    "stem": "D25W (0.25 g/mL) 2 mL/kg for a 10‑kg child. How many grams of dextrose delivered?",
+    "choices": [
+      "3.0 g",
+      "6.5 g",
+      "5.0 g",
+      "4.0 g"
+    ],
+    "answer": 2,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 168,
+    "stem": "Approximate daily sodium requirement at 3 mEq/kg/day for a 12‑kg child is:",
+    "choices": [
+      "28 mEq/day",
+      "46 mEq/day",
+      "32 mEq/day",
+      "36 mEq/day"
+    ],
+    "answer": 3,
+    "tags": [
+      "computation"
+    ]
+  },
+  {
+    "id": 169,
+    "stem": "Vitamin K prophylaxis at birth prevents:",
+    "choices": [
+      "Hemorrhagic disease of the newborn (vitamin K deficiency bleeding)",
+      "Neonatal sepsis",
+      "RDS",
+      "Physiologic jaundice"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 170,
+    "stem": "Erythromycin eye ointment at birth primarily prevents:",
+    "choices": [
+      "Chlamydia pneumonia",
+      "Gonococcal conjunctivitis",
+      "CMV infection",
+      "Retinopathy of prematurity"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 171,
+    "stem": "Newborn screening is ideally performed at:",
+    "choices": [
+      "Immediately at delivery always",
+      "At 3 months",
+      "24–48 hours after birth (before early discharge)",
+      "At 1 year"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 172,
+    "stem": "APGAR assesses all EXCEPT:",
+    "choices": [
+      "Heart rate",
+      "Respiratory effort",
+      "Reflex irritability",
+      "Blood glucose"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 173,
+    "stem": "Recommended infant sleep position to reduce SIDS:",
+    "choices": [
+      "Supine (on the back) on a firm surface without soft bedding",
+      "Prone",
+      "Side with pillows",
+      "Inclined sleeper"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 174,
+    "stem": "Exclusive breastfeeding is recommended for about:",
+    "choices": [
+      "First month only",
+      "First 6 months",
+      "First 2 years exclusively",
+      "Never"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 175,
+    "stem": "Physiologic jaundice usually peaks around:",
+    "choices": [
+      "Day 1",
+      "Week 3",
+      "Days 3–5 in term infants",
+      "Month 2"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 176,
+    "stem": "Bronchiolitis mainstay of therapy is:",
+    "choices": [
+      "Routine bronchodilators for all",
+      "Antibiotics for all",
+      "Systemic steroids for all",
+      "Supportive care (hydration, suction, oxygen as needed)"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 177,
+    "stem": "Croup with stridor at rest is treated first‑line with:",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "ICS only",
+      "Antibiotics",
+      "No therapy"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 178,
+    "stem": "Asthma hallmark feature is:",
+    "choices": [
+      "Fixed obstruction only",
+      "Reversible airway obstruction and hyperresponsiveness",
+      "Alveolar destruction",
+      "Primary infection"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 179,
+    "stem": "First‑line controller for persistent asthma is:",
+    "choices": [
+      "Oral steroid bursts daily",
+      "SABA only",
+      "Inhaled corticosteroid (ICS)",
+      "Antibiotics"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 180,
+    "stem": "Community‑acquired pneumonia typical etiology in school‑age child:",
+    "choices": [
+      "GBS",
+      "RSV only",
+      "Candida",
+      "Mycoplasma pneumoniae"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 181,
+    "stem": "Simple febrile seizure definition includes:",
+    "choices": [
+      "Generalized, <15 minutes, and not recurring within 24 hours",
+      "Focal, prolonged, recurrent same day",
+      "Associated with meningitis",
+      "Always status epilepticus"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 182,
+    "stem": "Acute otitis media diagnosis requires:",
+    "choices": [
+      "Ear tugging alone",
+      "Middle ear effusion plus signs of acute inflammation",
+      "Fever alone",
+      "Any URI"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 183,
+    "stem": "First‑line AOM pain management is:",
+    "choices": [
+      "Topical steroids only",
+      "Decongestants",
+      "Analgesics (acetaminophen/ibuprofen)",
+      "Antibiotics always"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 184,
+    "stem": "Group A strep pharyngitis features include:",
+    "choices": [
+      "Cough and rhinorrhea predominance",
+      "Hoarseness only",
+      "Otorrhea",
+      "Sudden sore throat, fever, tender anterior nodes, no cough"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 185,
+    "stem": "Dehydration moderate signs include:",
+    "choices": [
+      "Tachycardia, delayed cap refill, dry mucosa, decreased tears",
+      "Bradycardia, hypertension",
+      "Polyuria",
+      "Edema"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 186,
+    "stem": "Oral rehydration solution key ingredients include:",
+    "choices": [
+      "Protein only",
+      "Glucose and electrolytes enabling sodium‑glucose cotransport",
+      "Pure water",
+      "Hypertonic sugar drinks"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 187,
+    "stem": "Anaphylaxis first‑line outpatient treatment is:",
+    "choices": [
+      "IV fluids only",
+      "Oral antihistamines only",
+      "IM epinephrine in the lateral thigh",
+      "Topical steroids"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 188,
+    "stem": "UTI in a febrile toddler best initial test:",
+    "choices": [
+      "Bagged specimen culture",
+      "Abdominal X‑ray",
+      "Sputum culture",
+      "Urinalysis and urine culture from catheterized specimen (if not toilet trained)"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 189,
+    "stem": "Lead exposure risk is higher in:",
+    "choices": [
+      "Children in older housing with peeling paint",
+      "New steel homes",
+      "Outdoor tents",
+      "Glass houses only"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 190,
+    "stem": "Iron deficiency anemia classic lab pattern:",
+    "choices": [
+      "High MCV, high ferritin",
+      "Low MCV, low ferritin, high RDW",
+      "Normal RDW",
+      "High MCHC"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 191,
+    "stem": "Kawasaki disease hallmark duration of fever is:",
+    "choices": [
+      "<24 hours",
+      "Only with rash",
+      "≥5 days with mucocutaneous findings",
+      "Only with arthritis"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 192,
+    "stem": "Post‑streptococcal glomerulonephritis urine finding:",
+    "choices": [
+      "Eosinophiluria only",
+      "Glucosuria",
+      "Ketones",
+      "Hematuria with RBC casts"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 193,
+    "stem": "Nephrotic syndrome features include:",
+    "choices": [
+      "Heavy proteinuria, hypoalbuminemia, edema",
+      "Gross hematuria only",
+      "Hyponatremia alone",
+      "Hyperkalemia only"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 194,
+    "stem": "Osgood‑Schlatter disease is:",
+    "choices": [
+      "Meniscal tear",
+      "Traction apophysitis at the tibial tubercle",
+      "Patellar dislocation",
+      "Septic arthritis"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 195,
+    "stem": "Slipped capital femoral epiphysis (SCFE) presents with:",
+    "choices": [
+      "Foot pain",
+      "Neck pain",
+      "Hip/knee pain and limited internal rotation in obese adolescent",
+      "Elbow swelling"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 196,
+    "stem": "Intussusception classic triad includes:",
+    "choices": [
+      "High fever only",
+      "Watery diarrhea only",
+      "Chronic constipation",
+      "Intermittent colicky pain, vomiting, and 'currant jelly' stools"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 197,
+    "stem": "Pyloric stenosis hallmark sign:",
+    "choices": [
+      "Projectile nonbilious vomiting with palpable 'olive' in RUQ",
+      "Bilious vomiting at birth",
+      "Bloody diarrhea",
+      "Hepatosplenomegaly"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 198,
+    "stem": "Celiac disease key serology is:",
+    "choices": [
+      "ANA",
+      "IgA anti‑tissue transglutaminase (tTG) with total IgA",
+      "ASO titer",
+      "RF"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 199,
+    "stem": "Type 1 diabetes common presentation:",
+    "choices": [
+      "Bradycardia and rash only",
+      "Polycythemia",
+      "Polyuria, polydipsia, weight loss, sometimes DKA",
+      "Asymptomatic anemia"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 200,
+    "stem": "DKA initial fluid choice is:",
+    "choices": [
+      "Hypotonic saline bolus",
+      "Hypertonic saline bolus routinely",
+      "Free water bolus",
+      "Isotonic saline (or balanced crystalloid) bolus"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 201,
+    "stem": "BRUE (brief resolved unexplained event) diagnosis requires:",
+    "choices": [
+      "Brief event in infant with now normal exam, low‑risk criteria",
+      "Any apnea lasting >10 min",
+      "Febrile seizure",
+      "Hypoglycemia"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 202,
+    "stem": "Atopic dermatitis mainstay therapy includes:",
+    "choices": [
+      "Systemic steroids chronically",
+      "Emollients and topical anti‑inflammatories (e.g., topical steroids)",
+      "Antibiotics for all",
+      "Phototherapy for infants"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 203,
+    "stem": "Impetigo first‑line therapy for limited lesions:",
+    "choices": [
+      "Systemic antifungals",
+      "Oral steroids",
+      "Topical mupirocin",
+      "No treatment"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 204,
+    "stem": "Scabies hallmark symptom and finding:",
+    "choices": [
+      "Hemoptysis",
+      "Severe edema",
+      "Rash only on face in teens",
+      "Intense pruritus worse at night with burrows"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 205,
+    "stem": "Pediatric anaphylaxis epinephrine dose is:",
+    "choices": [
+      "0.01 mg/kg of 1 mg/mL (1:1000) IM up to 0.5 mg",
+      "0.1 mg/kg IV bolus for all",
+      "0.5 mg/kg IM",
+      "Topical epinephrine"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 206,
+    "stem": "Safe sleep includes all EXCEPT:",
+    "choices": [
+      "Room‑sharing without bed‑sharing",
+      "Blankets and pillows in the crib",
+      "Firm sleep surface",
+      "Back to sleep"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 207,
+    "stem": "Car seat guidance for infants:",
+    "choices": [
+      "Forward‑facing at 6 months",
+      "No need if short trips",
+      "Rear‑facing as long as possible within seat limits",
+      "Seat in front passenger airbag"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 208,
+    "stem": "Adolescent sports clearance: with exertional chest pain, the next step is:",
+    "choices": [
+      "Clear immediately",
+      "Hydration advice only",
+      "Ignore if first episode",
+      "Hold clearance and evaluate for cardiac disease"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 209,
+    "stem": "Hypothyroidism in infants screening detects:",
+    "choices": [
+      "Congenital hypothyroidism to prevent neurodevelopmental impairment",
+      "Celiac disease",
+      "SCFE",
+      "Rickets"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 210,
+    "stem": "Rickets classic finding:",
+    "choices": [
+      "Punched‑out bone lesions",
+      "Widened wrists and rachitic rosary due to defective mineralization",
+      "Blue sclera",
+      "Hepatomegaly"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 211,
+    "stem": "Sickle cell disease prophylaxis in early childhood includes:",
+    "choices": [
+      "Aspirin daily",
+      "No vaccines needed",
+      "Penicillin prophylaxis and pneumococcal vaccination",
+      "Antivirals"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 212,
+    "stem": "Neonatal sepsis early empiric antibiotics typically include:",
+    "choices": [
+      "Vancomycin only",
+      "Ciprofloxacin",
+      "Ceftriaxone in neonate routinely",
+      "Ampicillin plus gentamicin"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 213,
+    "stem": "Otitis externa key treatment:",
+    "choices": [
+      "Topical antibiotic‑steroid drops and canal care",
+      "Systemic steroids only",
+      "Oral antibiotics always",
+      "Ear wicks contraindicated"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 214,
+    "stem": "Hand‑foot‑mouth disease is usually caused by:",
+    "choices": [
+      "HSV‑1",
+      "Coxsackie A virus",
+      "Influenza B",
+      "EBV"
+    ],
+    "answer": 1,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 215,
+    "stem": "Henoch–Schönlein purpura hallmark triad includes:",
+    "choices": [
+      "Petechiae, cough, edema",
+      "Hemoptysis, hematuria, rash",
+      "Palpable purpura, arthralgia, abdominal pain",
+      "Fever, jaundice, anemia"
+    ],
+    "answer": 2,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 216,
+    "stem": "Acne first‑line for mild comedonal acne:",
+    "choices": [
+      "Oral isotretinoin immediately",
+      "Systemic steroids",
+      "No treatment",
+      "Topical retinoid ± benzoyl peroxide"
+    ],
+    "answer": 3,
+    "tags": [
+      "others"
+    ]
+  },
+  {
+    "id": 217,
+    "stem": "Adolescent confidentiality limits include duty to disclose when:",
+    "choices": [
+      "There is imminent risk of serious harm (e.g., suicidality)",
+      "Grades are low",
+      "Parents ask for gossip",
+      "Curfew violations"
+    ],
+    "answer": 0,
+    "tags": [
+      "others"
+    ]
+  }
+]
